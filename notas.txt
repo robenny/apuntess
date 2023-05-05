@@ -2,5 +2,5 @@ Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Repositorios remotos.
 Capitulo 4: Aprendemos sobre cambio de branch
-Hola Robenni  --- Elda Te saluda tu colaboradora
+Hola Robenni --- elda aqui
 
